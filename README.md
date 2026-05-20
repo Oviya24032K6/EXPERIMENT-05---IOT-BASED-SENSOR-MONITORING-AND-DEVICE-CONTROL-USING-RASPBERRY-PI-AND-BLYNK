@@ -110,7 +110,8 @@ o	Switch the relay ON or OFF.
 ---
 
 ## **CIRCUIT DIAGRAM:**  
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/7b8c9820-785b-4592-84c0-b9d22933d918" />
+<img width="347" height="239" alt="image" src="https://github.com/user-attachments/assets/e12672eb-a077-420d-b09b-44fbcfbf1309" />
+
 
 
 ## **Sample Python Code for Raspberry Pi + Blynk**  
@@ -208,7 +209,10 @@ finally:
 
 ## *Output**
 
-<img width="185" height="283" alt="image" src="https://github.com/user-attachments/assets/2d415aab-a15f-46d2-b8de-15ee445ca703" />
+
+<img width="468" height="265" alt="image" src="https://github.com/user-attachments/assets/5c787529-808e-4441-9bd9-3bee380cb0a2" />
+
+
 
 <img width="328" height="328" alt="image" src="https://github.com/user-attachments/assets/c7fbc209-1d23-46f2-a4d2-32206b97b229" />
 
