@@ -313,7 +313,7 @@ finally:
 
     GPIO.cleanup()
     print("GPIO cleaned up")
-    ```
+ ```
 
 ### FIGURE -08
 <img width="187" height="322" alt="image" src="https://github.com/user-attachments/assets/b1678a56-8022-4c2c-9128-f79582090d4d" />
@@ -332,5 +332,5 @@ finally:
 ## **RESULT:**  
 Thus, the sensor values from the **IR and LDR sensors** were successfully monitored in the **Blynk mobile application using Raspberry Pi 4**, and the** output devices (LED, buzzer, and relay)** were controlled through the **Blynk interface based on the sensor inputs** and user commands.
 
----
+
 
